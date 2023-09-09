@@ -37,7 +37,7 @@ section {
   height: 1000px;
   width: 100%;
   background-color: aliceblue;
-  background-image: url(img/vista-superior-seleccion-sabrosa-carne-sobre-mesa.jpg);
+  background-image: url(img/mezcla-plana-queso-gourmet-uvas-tabla-cortar-espacio-copia.jpg);
   background-size: cover;
 }
 
@@ -46,7 +46,7 @@ h1 {
   color: aliceblue;
   font-family: cursive;
   text-align: center;
-  padding: 500px;
+  padding: 100px;
 }
 
 footer {
@@ -67,6 +67,13 @@ footer i {
   letter-spacing: 30px;
 }
 
+#Nos {
+  color: aliceblue;
+  font-family: cursive;
+  font-size: 20px;
+  text-align: left;
+}
+
 .what {
   height: 60px;
   width: 60px;
@@ -81,7 +88,7 @@ footer i {
   display: grid;
   place-items: center;
   border-radius: 50%;
-  box-shadow: 0 0 5px #fff;
+  box-shadow: 0 0 5px #ffffff;
 }
 
-/*# sourceMappingURL=estilos.css.map */
+/*# sourceMappingURL=estilonu.css.map */
