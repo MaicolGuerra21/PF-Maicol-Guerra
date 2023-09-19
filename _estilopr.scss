@@ -1,12 +1,5 @@
 
 
-article{
-  background-color: rgb(255, 255, 255);
-  border: 4px solid #000;
-  height: 250px;
-  font-family: fantasy;
-  text-align: center;
-}
 .item1{
   height: 200px;                                          
   background-image: url(img/WhatsApp\ Image\ 2023-08-23\ at\ 14.50.23.jpeg);
@@ -78,4 +71,9 @@ article{
   background-image: url(img/WhatsApp\ Image\ 2023-08-23\ at\ 14.50.48.jpeg);
   background-position: center;
   background-size: cover;
+}
+h1{
+  margin: 20px;
+  font-family: fantasy;
+  text-align: center;
 }
