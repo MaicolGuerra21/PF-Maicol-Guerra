@@ -3,21 +3,20 @@ section{
     height: 1000px;
     width: 100%;
     background-color: aliceblue;
-    background-image: url(img/mezcla-plana-queso-gourmet-uvas-tabla-cortar-espacio-copia.jpg);
+    background-image:linear-gradient( rgba(0, 0, 0, 0.9), rgba(255, 255, 255, 0.7)), url(img/mezcla-plana-queso-gourmet-uvas-tabla-cortar-espacio-copia.jpg);
     background-size: cover;
     
 }
 h1{
-    font-size: 30px;
+    font-size: 40px;
     color: aliceblue;
     font-family: cursive;
     text-align: center;
     padding: 100px;
 }
-#Nos{
+.info{
     color: aliceblue;
     font-family: cursive;
-    font-size: 20px;
+    font-size: 30px;
     text-align: left;
-    
 }
